@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.preference.custom.apppreference.R;
+import com.bijendra.preference.R;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
